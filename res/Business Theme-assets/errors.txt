@@ -1,0 +1,2 @@
+[2018-12-14 15:15:18] layer "There are many variations of passages of Lorem Ipsum available,": Expected end of input but "," found.
+[2018-12-14 15:15:18] layer " +987 9976 999 ": Expected Either a default asset specification or a layer asset specification but " " found.
